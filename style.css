@@ -1,0 +1,258 @@
+#douter{
+    height: 900px;
+    width: 100%;
+    background-color: antiquewhite;
+}
+#dheader{
+    height: 400px;
+    width: 100%;
+    background-image: url("https://www.annalindhfoundation.org/sites/default/files/styles/main_image_desktop/public/2019-10/bg-featured-second.jpg?itok=jF6hZXI8");
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+#img{
+    height: 50px;
+    width: 20%;
+    padding: 1% 5%;
+}
+select{
+    border: none;
+    float: right;
+    margin: 2% 10%;
+}
+#d1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    font-size: 3rem;
+}
+#d2{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    font-size: 1rem;
+}
+#d3{
+    border: 1px solid black;
+    background-color: rgb(3, 36, 3);
+    box-sizing: 2%;
+    margin: 10% 42%;
+    border-radius: 20px;
+    text-decoration: none;
+    color: white;
+    padding: 5px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+#d4{
+    font-size: 0.8rem;
+    text-align: center;
+    margin: 10px 35px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+#dcenter{
+    height: 40%;
+    width: 100%;
+    display: flex;
+    /* flex-wrap: wrap; */
+}
+#p1{
+    height: 60%;
+    width: 70%;
+    margin: 8%; 
+}
+#c1{
+    height: 60%;
+    width: 100%;
+    display: flex;
+    margin: 8%;
+    flex-wrap: wrap;
+}
+#c11{
+    height: 30%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    font-family:Georgia, 'Times New Roman','Times New Roman', Times, serif;
+}
+#p2{
+    height: 30%;
+    width: 100%;
+    margin: 0%;
+    text-align: center;
+    font-size: 2.2rem;
+}
+#c12{
+    height: 30%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+#p3{
+    margin: 0%;
+    font-size: 0.8rem;
+    text-align: center;
+    height: 30%;
+    width: 100%;
+}
+#c13{
+    height: 15%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin: 0%;
+}
+#a1{
+    border: 1px solid black;
+    Text-decoration: none;
+    Border-radius:15px;
+    background-color:rgb(28, 81, 28);
+    color: white;
+    text-align: center;
+    width: 40%;
+    height: 80%;
+}
+#dcenter1{
+    height: 45%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    flex-wrap: nowrap;
+}
+#dcl1{
+    height: 93%;
+    width: 30%;
+    margin: 2%;
+}
+#i1{
+    height: 60%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#i2{
+    height: 60%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+#i3{
+    height: 60%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    flex-direction: row-reverse;
+}
+.h1{
+    height: 20%;
+    width: 100%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 1.6rem;
+    margin: 0%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.ai{
+    height: 20%;
+    width: 100%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin: 0%;
+    font-size: 0.9rem;
+    margin: 0%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+
+}
+#dcl2{
+    height: 93%;
+    width: 30%;
+    margin: 2%;
+}
+#dcl3{
+    height: 93%;
+    width: 30%;
+    margin: 2%;
+}
+#dcenter2{
+    height: 10%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+a{
+    color: green;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+#dfooter{
+    height: 60%;
+    width: 100%;
+    background-color: rgb(242, 231, 233);
+}
+#df1{
+    height: 15%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 2.6rem;
+}
+#df2{
+    height: 60%;
+    width: 100%;
+    display: flex;
+    flex-wrap: nowrap;
+}
+#df21{
+    height: 100%;
+    width: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+img{
+    height: 80%;
+    width: 90%;
+}
+#df22{
+    height: 100%;
+    width: 50%;
+    display: flex;
+    flex-wrap: wrap;
+}
+#df221{
+    height: 30%;
+    width: 100%;
+    font-size: 2rem;
+    margin: 1%;
+    text-align: center;
+    
+}
+#df222{
+    height: 30%;
+    width: 100%;
+    font-size: 2rem;
+    margin: 1%;
+    text-align: center;
+}
+#df223{
+    height: 30%;
+    width: 100%;
+    font-size: 2rem;
+    margin: 1%;
+    text-align: center;
+}
+#df3{
+    height: 25%;
+    width: 100%;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
